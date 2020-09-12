@@ -1,5 +1,5 @@
 Initial code
 
-function 2
+function 1
 
 
